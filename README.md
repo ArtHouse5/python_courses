@@ -1,2 +1,2 @@
 # python_courses
-Tasks made during the courses
+Different tasks made during the courses
